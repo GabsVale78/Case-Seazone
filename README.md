@@ -13,6 +13,3 @@ Python
 Pandas
 Seaborn
 Dash
-
-Instalação
-Clone o repositório: git clone https://github.com/seu-usuario/analise-dados-booking.git
